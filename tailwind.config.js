@@ -5,6 +5,7 @@ module.exports = {
     './components/**/*.{html,js}',
     './index.html',
   ],
+  darkMode : 'media',
   theme: {
     extend: {},
   },
